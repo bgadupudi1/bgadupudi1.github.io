@@ -1978,6 +1978,10 @@ input, select, textarea {
 
 			}
 
+			#main > .buttons {
+				display: flex;
+			}
+
 			#main > .panel.intro {
 				padding: 0;
 				height: 20em;
